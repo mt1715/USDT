@@ -1,0 +1,8 @@
+{
+  "name": "TEATHER USDT",
+  "symbol": "USDT",
+  "address": "0x06c070e2c317fd7450e3dde4d8fa370561fcfd0f",
+  "decimals": 18,
+  "chainId": 97,
+  "logoURI": "https://github.com/mt1715/USDT/blob/icons/image.png?raw=true"
+}
